@@ -1,0 +1,45 @@
+{
+  "id": "https://death.id.au/",
+  "auth": {
+    "me": "https://death.id.au/",
+    "authEndpoint": "https://deathau-cellar-door.glitch.me/",
+    "tokenEndpoint": "https://deathau-cellar-door.glitch.me/token",
+    "clientId": "http://localhost:3000/",
+    "redirectUri": "http://localhost:3000/auth"
+  },
+  "aliases": [
+    "https://death.id.au/",
+    "https://pkm.social/@death_au",
+    "https://github.com/deathau",
+    "https://twitter.com/death_au"
+  ],
+  "name": "Gordon Pedersen",
+  "preferredUsername": "death.au",
+  "summary": "...and I am a human on the Internet.",
+  "icon": {
+    "name": "My profile photo — a pixelated version of me",
+    "url": "https://death.id.au/assets/img/avatar-tt.svg",
+    "type": "Image"
+  },
+  "image": [
+    {
+      "name": "A grim reaper in a decorated cubicle, writing and daydreaming, surrounded by many other grim reapers in bland, grey, cubicles",
+      "url": "https://death.id.au/assets/img/banner-1500x500.jpg",
+      "type": "Image"
+    },
+    {
+      "name": "My profile photo — a pixelated version of me",
+      "url": "https://death.id.au/assets/img/avatar-tt.svg",
+      "type": "Image"
+    }
+  ],
+  "url": [
+    "https://death.id.au",
+    "acct:death.au@death.id.au",
+    "https://pkm.social/@death_au",
+    "https://github.com/deathau",
+    "https://twitter.com/death_au",
+    "https://www.linkedin.com/in/gordon-pedersen/"
+  ],
+  "type": "Person"
+}
